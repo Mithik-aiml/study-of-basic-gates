@@ -1,6 +1,7 @@
 ### study-of-basic-gates
 G.Mithik jain
-24001881
+(24001881)
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
